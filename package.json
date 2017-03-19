@@ -1,0 +1,11 @@
+{
+  "name": "simple-server",
+  "version": "1.0.0",
+  "description": "A simple api server for testing purpose",
+  "main": "apiServer.js",
+  "author": "Jiawei Zhang",
+  "license": "MIT",
+  "dependencies": {
+    "os": "^0.1.1"
+  }
+}
